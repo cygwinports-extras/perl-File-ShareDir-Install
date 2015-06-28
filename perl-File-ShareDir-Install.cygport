@@ -1,0 +1,13 @@
+CPAN_AUTHOR=gwyn
+inherit perl
+
+NAME="perl-File-ShareDir-Install"
+VERSION=0.10
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution File-ShareDir-Install"
+DESCRIPTION="File::ShareDir::Install allows you to install read-only data files
+from a distribution. It is a companion module to File::ShareDir, which allows
+you to locate these files after installation."
+
+ARCH=noarch
